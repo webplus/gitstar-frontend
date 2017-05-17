@@ -1,11 +1,17 @@
-# gitstar-frontend
+## 前端架构
 
 基于Vue2.0+Vuex+Axios+NodeJs+Express+MongoDB
 
++ Vue单文件组件
++ Axios数据请求处理
++ Vuex状态管理
++ Vue-Router进行路由处理
++ 基于Webpack2构建
+
+## 参考
+
 https://www.v2ex.com/t/333024
 
-## 全局状态管理
-Vuex状态管理
 
 
 > A Vue.js project
