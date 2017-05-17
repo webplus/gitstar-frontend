@@ -4,6 +4,8 @@
 
 https://www.v2ex.com/t/333024
 
+## 全局状态管理
+Vuex状态管理
 
 
 > A Vue.js project
